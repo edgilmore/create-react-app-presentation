@@ -1,0 +1,11 @@
+.Presentation-Image {
+  border-radius: 50%;
+}
+
+ul {
+  list-style-type: none;
+}
+
+ul.add-list-style {
+  list-style-type: disc;
+}
